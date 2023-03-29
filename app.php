@@ -8,7 +8,12 @@
 </head>
 <body>
     <?php  
-    echo "this app will print a message and contributed my sibaJana";
+    // echo "this app will print a message and contributed my sibaJana";
+    echo "this code you do sum of 2 number in php";
+    $a=110;
+    $b=30;
+    $c=$a+$b;
+    echo $c;
     ?>
 </body>
 </html>
